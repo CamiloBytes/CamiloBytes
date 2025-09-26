@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Typescript, React, Next.js**
 
-- 💬 Ask me about **SQL, Frontend, figma, HTML, JavaScript, CSS**
+- 💬 Ask me about **SQL, Frontend, HTML, JavaScript, CSS**
 
 - 📫 How to reach me **camiloandres02222@gmail.com**
 
@@ -28,18 +28,12 @@
 
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/camilo-andres-parra-luna-8b10a0387/">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/CamiloP05993437">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
-  &nbsp;
-  &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
