@@ -13,15 +13,15 @@
 
  <img align="right"  src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
-<p align="left"> <a href="https://twitter.com/thilina13576639" target="blank"><img src="https://img.shields.io/twitter/follow/thilina13576639?logo=twitter&style=for-the-badge" alt="thilina13576639" /></a> </p>
+<p align="left"> <a href="https://x.com/CamiloP05993437" target="blank"><img src="https://img.shields.io/twitter/follow/thilina13576639?logo=twitter&style=for-the-badge" alt="thilina13576639" /></a> </p>
 
-- 🔭 I’m currently working on [Ecomers Project]([https://github.com/riwi-macondo/ecommerce-riwi-sportsline])
+- 🔭 I’m currently working on [Ecommerce Project](https://github.com/riwi-macondo/ecommerce-riwi-sportsline)
 
-- 🌱 I’m currently learning **R, Python, Pandas, Numpy**
+- 🌱 I’m currently learning **Typescript, React, Next.js**
 
-- 💬 Ask me about **SQL, MERN, Frontend, UI/UX, figma, HTML, JavaScript, CSS**
+- 💬 Ask me about **SQL, Frontend, figma, HTML, JavaScript, CSS**
 
-- 📫 How to reach me **lakshants500@gmail.com**
+- 📫 How to reach me **camiloandres02222@gmail.com**
 
 - View my portfolio - **click here**
 
