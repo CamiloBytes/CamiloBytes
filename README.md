@@ -34,7 +34,7 @@
 </a> ![Discord](https://img.shields.io/badge/CamiloParra-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 </div>
 
-## 🛠️ Tecnologías y Herramientas
+## Technologies and Tools
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-## Estadísticas de GitHub
+## GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloBytes&layout=compact&show_icons=true&locale=es&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top lenguajes" />
 
