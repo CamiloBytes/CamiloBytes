@@ -34,7 +34,7 @@
 </a> ![Discord](https://img.shields.io/badge/CamiloParra-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 </div>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CamiloBytes&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
