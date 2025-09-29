@@ -29,9 +29,8 @@
   
 ## Contact
 <div align="Center" >
-  
- <a href="https://twitter.com/CamiloP05993437">![Twitter](https://img.shields.io/badge/CamiloParra-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)</a> <a href="https://discord.com/channels/@Camilo_Andres_Parra_Luna">
-</a> ![Discord](https://img.shields.io/badge/CamiloParra-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+  <a href="https://twitter.com/CamiloP05993437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalbhatt09" height="30" width="40" /></a>
+ <a href="https://discord.com/channels/@" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="_ujjwalbhatt" height="30" width="40" /></a>
 </div>
 
 ## Technologies and Tools
