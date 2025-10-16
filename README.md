@@ -37,15 +37,15 @@
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+### Frontend and Backend
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,express" />
 
 
 ### Base de Datos & Control de Versiones
-<img src="https://skillicons.dev/icons?i=mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
 
 ### Herramientas de Desarrollo
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,ubuntu" />
 
 </div>
 
