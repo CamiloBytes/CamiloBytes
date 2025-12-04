@@ -17,7 +17,7 @@
  <p>- <i>Web Development student focused on Frontend. Passionate about building clean and functional user interfaces while learning modern web technologies. Committed to continuous growth and seeking opportunities to apply my skills and contribute to creative and innovative web projects.</i>
  </p>
  
-- 🔭 I’m currently working on [Ecommerce Project](https://github.com/riwi-macondo/ecommerce-riwi-sportsline)
+- 🔭 I’m currently working on [Tasklancer](https://github.com/juanscr24/tasklancer)
 
 - 🌱 I’m currently learning **Typescript, React, Next.js**
 
